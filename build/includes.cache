@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/fercosmiking/Descargas/arduino-1.8.19/portable/packages/esp32/hardware/esp32/2.0.4/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/fercosmiking/Descargas/arduino-1.8.19/portable/packages/esp32/hardware/esp32/2.0.4/variants/esp32"
+  },
+  {
+    "Sourcefile": "/home/fercosmiking/Descargas/TrabajosUnity/Reto1/build/sketch/simpleProject.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/fercosmiking/Descargas/TrabajosUnity/Reto1/build/sketch/task1.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/fercosmiking/Descargas/TrabajosUnity/Reto1/build/sketch/task2.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
