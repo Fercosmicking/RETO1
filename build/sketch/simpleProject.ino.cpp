@@ -4,20 +4,10 @@
 #include "task2.h"
 
 #line 4 "/home/fercosmiking/Descargas/TrabajosUnity/Reto1/simpleProject.ino"
-String btnState(uint8_t btnState);
-#line 12 "/home/fercosmiking/Descargas/TrabajosUnity/Reto1/simpleProject.ino"
 void setup();
-#line 17 "/home/fercosmiking/Descargas/TrabajosUnity/Reto1/simpleProject.ino"
+#line 9 "/home/fercosmiking/Descargas/TrabajosUnity/Reto1/simpleProject.ino"
 void loop();
 #line 4 "/home/fercosmiking/Descargas/TrabajosUnity/Reto1/simpleProject.ino"
-String btnState(uint8_t btnState){
-
-  if(btnState == HIGH){
-    return "ON";
-  }
-  else return "OFF";
-}
-
 void setup()
 {
   task1();
